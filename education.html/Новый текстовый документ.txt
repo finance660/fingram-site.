@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Обучение | Финансовая грамотность</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="logo">Финансовая грамотность</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="education.html">Обучение</a></li>
+                <li><a href="quiz.html">Проверь себя</a></li>
+                <li><a href="advice.html">Советы</a></li>
+                <li><a href="contacts.html">Контакты</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <h2>Обучение</h2>
+        <div>
+            <h3>Видео и статьи:</h3>
+            <ul>
+                <li><a href="https://finlit.kz/courses" target="_blank">Бесплатные курсы на Finlit.kz</a></li>
+                <li><a href="https://halykbank.kz" target="_blank">Курсы от Halyk Bank</a></li>
+            </ul>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div>
+                <h4>Полезные ресурсы</h4>
+                <ul>
+                    <li><a href="https://finlit.kz" target="_blank">Finlit.kz</a></li>
+                    <li><a href="https://smartnation.kz" target="_blank">Smart Nation</a></li>
+                    <li><a href="https://halykbank.kz" target="_blank">Halyk Bank</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Контакты</h4>
+                <p>Email: info@fingram.kz</p>
+            </div>
+            <div>
+                <p>&copy; 2025 Финансовая грамотность</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
